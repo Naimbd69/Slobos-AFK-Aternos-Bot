@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "SadiyaGaming",
+    "password": "Naimisatomic",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "sun.matrixclouds.xyz",
+    "port": 19160,
     "version": "",
     "try-creative": false
   },
